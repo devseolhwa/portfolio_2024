@@ -31,7 +31,7 @@
 }
 .port__item {
     width: 500px;
-    height: 70vh;
+    height: max-content;
     background-color: var(--subBg100);
     padding: 2.5rem;
     margin-right: 20px;
